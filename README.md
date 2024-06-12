@@ -10,3 +10,8 @@ Convolutional Neural Networks (CNNs) and Transformer-based self-attention models
 
 
 ![P1](https://github.com/kabbas570/Convolution-and-Attention-Free-Mamba-based-Cardiac-Image-Segmentation/assets/56618776/ac77ff96-5c4c-4048-83ae-6bf63902f489)
+
+
+## Results
+
+![viz2](https://github.com/kabbas570/Convolution-and-Attention-Free-Mamba-based-Cardiac-Image-Segmentation/assets/56618776/20e98c2c-4941-4c74-a19c-1813f2edcff1)
