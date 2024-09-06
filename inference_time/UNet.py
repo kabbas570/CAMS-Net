@@ -61,7 +61,7 @@ class OutConv(nn.Module):
         return self.conv(x)
 
 
-Base = 32
+Base = 64
 class UNet(nn.Module):
     def __init__(self, n_channels=1, bilinear=True):
         super(UNet, self).__init__()
