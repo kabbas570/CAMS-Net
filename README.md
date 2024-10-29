@@ -29,6 +29,7 @@ Results demonstrate state-of-the-art segmentation performance across diverse car
 ## Segmentation Model 
 
 ## ImageNet Pretrained Weights
+The imageNet pre-trained weights are available for the following two sizes, as we trained for the M&Ms-2 Dataset and CMR×Recon Segmentation Dataset.
 
 [Mamba-Encoder for input size with spatial dim of 256 x 256](https://drive.google.com/open?id=1IMmrYufVxRek3sVfrY1FZDax0NVpQy7g&usp=drive_copy)
 
