@@ -28,6 +28,10 @@ Results demonstrate state-of-the-art segmentation performance across diverse car
 
 ## Segmentation Model 
 
+## ImageNet Pretrained Weights
+
+
+
 
 
 # Citation
