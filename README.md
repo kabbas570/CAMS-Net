@@ -30,8 +30,9 @@ Results demonstrate state-of-the-art segmentation performance across diverse car
 
 ## ImageNet Pretrained Weights
 
-[Mamba-Encoder for input size with spatial dim of 160x160](https://drive.google.com/open?id=1IMmrYufVxRek3sVfrY1FZDax0NVpQy7g&usp=drive_copy)
-[Mamba-Encoder for input size with spatial dim of 256x256](https://drive.google.com/open?id=1zmxagS6x7_osxNpoQxICSvNltVuNxJTC&usp=drive_copy)
+[Mamba-Encoder for input size with spatial dim of 256 x 256](https://drive.google.com/open?id=1IMmrYufVxRek3sVfrY1FZDax0NVpQy7g&usp=drive_copy)
+
+[Mamba-Encoder for input size with spatial dim of 160 x 160](https://drive.google.com/open?id=1zmxagS6x7_osxNpoQxICSvNltVuNxJTC&usp=drive_copy)
 
 
 
