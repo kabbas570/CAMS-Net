@@ -6,7 +6,7 @@
 # Overview:
 This paper demonstrates that convolution and self-attention, while widely used, are not the only effective methods for segmentation. Breaking with convention, we present a Convolution and self-attention-free Mamba-based semantic Segmentation Network named CAMS-Net for the task of medical image segmentation.
 
-![image](https://raw.githubusercontent.com/kabbas570/CompSeg-MetaData/09d175b70f1e6c1a4b33c172531754a7eb72f4f1/figures/arch.png)
+![image](https://github.com/kabbas570/CAMS-Net/blob/052ac53b678a907be29aaca6b4abdd7dbd973d7a/figures/main_r2.png)
 
 ## Key Contributions:
 ***First Convolution and Self-attention-Free Architecture:*** To the best of our knowledge, we are the first to propose a convolution and self-attention-free Mamba-based segmentation network. 
