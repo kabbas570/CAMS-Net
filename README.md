@@ -2,6 +2,8 @@
 
 ## [Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)](https://wacv2025.thecvf.com/)
 
+You can view or download the metadata [here](https://arxiv.org/abs/2406.05786)
+
 
 # Overview:
 This paper demonstrates that convolution and self-attention, while widely used, are not the only effective methods for segmentation. Breaking with convention, we present a Convolution and self-attention-free Mamba-based semantic Segmentation Network named CAMS-Net for the task of medical image segmentation.
