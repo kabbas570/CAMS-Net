@@ -2,7 +2,7 @@
 
 ## [Accepted at WACV 2025 (IEEE/CVF Winter Conference on Applications of Computer Vision)](https://wacv2025.thecvf.com/)
 
-You can view or download the metadata [here](https://arxiv.org/abs/2406.05786)
+You can view or download the metadata [HERE](https://arxiv.org/abs/2406.05786)
 
 
 # Overview:
